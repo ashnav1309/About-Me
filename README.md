@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ashnav1309
+- 👀 I’m interested in UI and API automation testing through JAVA
+- 🌱 I’m currently learning to automate everything and anything, if possible
+- 💞️ I’m looking to collaborate on Selenium, restAssured, jmeter projects
+- 📫 How to reach me : LinkedIn: https://www.linkedin.com/in/ashnavsaxena/
